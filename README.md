@@ -7,13 +7,13 @@ The Pima Indian Diabetes Dataset contains data from 768 women and includes sever
 ## Handling Missing Data
 One of the key challenges with the Pima Indian Diabetes Dataset is its missing values, particularly in columns such as Glucose, Blood Pressure, Skin Thickness, Insulin, and BMI. Our approach involves:
 
-. Identifying missing values, which are initially recorded as zeros.
+* Identifying missing values, which are initially recorded as zeros.
 
-. Replacing these zeros with NaN for a more accurate representation of missing data.
+* Replacing these zeros with NaN for a more accurate representation of missing data.
 
-. Exploring data distribution and relationships between variables through visualization.
+* Exploring data distribution and relationships between variables through visualization.
 
-. Imputing missing values using statistical methods or predictions from other variables for a more complete dataset.
+* Imputing missing values using statistical methods or predictions from other variables for a more complete dataset.
 
 ## Exploratory Data Analysis (EDA)
 We perform EDA to understand the distribution of various features and their relationship with the diabetes outcome. This includes generating pair plots to visualize the dataset's distribution and identifying any apparent patterns or clusters.
