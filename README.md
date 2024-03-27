@@ -2,7 +2,7 @@
 This project focuses on the prediction of diabetes among the Pima Indian population near Phoenix, Arizona, USA, using KNN approach.
 
 ## Dataset
-The Pima Indian Diabetes Dataset contains data from 768 women and includes several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies, glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age.
+The Pima Indian Diabetes Dataset contains data from 768 women and includes several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies, glucose concentration, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age. The dataset is uploaded as [diabetes.csv](https://github.com/Beh-naz/Diabetes-Prediction/blob/main/diabetes.csv) in this repository.
 
 ## Handling Missing Data
 One of the key challenges with the Pima Indian Diabetes Dataset is its missing values, particularly in columns such as Glucose, Blood Pressure, Skin Thickness, Insulin, and BMI. Our approach involves:
